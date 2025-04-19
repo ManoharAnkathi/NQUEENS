@@ -1,34 +1,22 @@
-# 🧠 N-Queens Problem Solver
+# ♛ N-Queens Problem Solver (Java)
 
-This project solves the classic **N-Queens problem** using backtracking. The goal is to place `N` queens on an `N x N` chessboard such that no two queens threaten each other.
-
----
-
-## 📌 Problem Statement
-
-Place `N` queens on an `N x N` chessboard such that:
-- No two queens share the same row
-- No two queens share the same column
-- No two queens share the same diagonal
+This Java project solves the **N-Queens problem** using a backtracking algorithm. The objective is to place `N` queens on an `N x N` chessboard such that no two queens threaten each other.
 
 ---
 
-## 📈 Time Complexity
+## 🧠 Problem Description
 
-The solution uses **backtracking**, with a time complexity of approximately **O(N!)** in the worst case.
-
----
-
-## 🛠️ Languages & Tools
-
-- Python 3.x (or any other language you've implemented it in)
-- Basic understanding of recursion and backtracking
+The N-Queens problem is a classic backtracking puzzle where you must place N queens on an NxN chessboard such that:
+- No two queens share the same **row**, **column**, or **diagonal**.
 
 ---
 
-## 🚀 How to Run
+## 🛠️ Technologies Used
 
-### Using Python:
+- Java 8+
+- Any Java IDE or command-line compiler
 
-```bash
-python nqueens.py
+---
+
+
+
